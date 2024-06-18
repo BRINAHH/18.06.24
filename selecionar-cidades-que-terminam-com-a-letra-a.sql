@@ -1,1 +1,1 @@
-select * from `cidades` where 
+select * from `cidades` where `nome` like `a%`;
